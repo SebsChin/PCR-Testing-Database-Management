@@ -1,0 +1,1 @@
+# A file useed to initiate all the processes and check allfiles are ready/exist
